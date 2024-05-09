@@ -1,0 +1,1 @@
+"%AHK%\Compiler\Ahk2Exe.exe" /in "MSYS2 Launcher.ahk" /out "Output\MSYS2 Launcher.exe" /icon "MSYS2 Launcher.ico" /compress 2 /base "%AHK%\v2\AutoHotkey64.exe"
