@@ -1,5 +1,4 @@
 # MSYS2 Launcher
-
 A super simple launcher for MSYS2. For those who don't know what MSYS2 is, It's essentially a set of compilers ported to Windows with a simple Linux bash shell
  
 # Build requirements
